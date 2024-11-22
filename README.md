@@ -37,8 +37,12 @@
 
 ## 📍 Deploy<br>
 ![AMAZON EC2](https://img.shields.io/badge/AMAZON_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AMAZON S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![ARGO](https://img.shields.io/badge/Argo-FF5470?style=for-the-badge&logo=argo&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
 
