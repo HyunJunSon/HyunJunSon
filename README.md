@@ -7,11 +7,11 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning Spring 
+- 🌱 I’m interested in Cloud Engineering & K8S
 
 - 💬 Ask me about **Software Engineering**
 
-- 📫 How to reach me **bighitstory@kakao.com**
+- 📫 How to reach me **jjang3a@gmail.com**
 
 ## 📊 Stats
 
@@ -43,11 +43,15 @@
 ![ARGO](https://img.shields.io/badge/Argo-FF5470?style=for-the-badge&logo=argo&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 
 <br />
 
+## 📜 Certification<br>
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS_SAA-Certificate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/verification)
+![정보처리기사](https://img.shields.io/badge/정보처리기사-Certificate-0E7FC0?style=for-the-badge&logo=onlyoffice&logoColor=white)
+![SQLD](https://img.shields.io/badge/SQLD-Certificate-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
 
 ##
 <p align="center"> © 2024Creative HyunJunSon, all rights reserved. </p>
